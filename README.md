@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 ### MY SKILL
-<img alt="Python" src ="https://img.shields.io/badge/Python-#3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin281129&count_private=true&show_icons=true&theme=material-palenight)
