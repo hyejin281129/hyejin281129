@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 ### HELLO MY NICNAME IS MOMO 👋
 I'm a junior🌱 Front-End developer.<br />
 After learning machine learning, I realized the importance of web development and am studying the web.🤔<br />
