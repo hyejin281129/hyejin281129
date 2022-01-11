@@ -1,4 +1,10 @@
 ### HELLO MY NICNAME IS MOMO 👋
+I'm a junior🌱 Front-End developer.
+After learning machine learning, I realized the importance of web development and am studying the web.🤔
+Finally, my goal is to become a ✨full stack✨ developer.  
+
+
+
 
 <!--
 **hyejin281129/hyejin281129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
