@@ -1,7 +1,7 @@
 ### HELLO MY NICNAME IS MOMO 👋
-I'm a junior🌱 Front-End developer.
-After learning machine learning, I realized the importance of web development and am studying the web.🤔
-Finally, my goal is to become a ✨full stack✨ developer.  
+I'm a junior🌱 Front-End developer.<br />
+After learning machine learning, I realized the importance of web development and am studying the web.🤔<br />
+Finally, my goal is to become a ✨full stack✨ developer.<br />
 
 
 
