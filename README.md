@@ -1,4 +1,4 @@
-### HELLO 👋
+### HELLO MY NICNAME IS MOMO 👋
 
 <!--
 **hyejin281129/hyejin281129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### MY SKILL
+#### MY SKILL
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 
