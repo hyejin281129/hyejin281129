@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=momo%&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=shark&color=wave&height=100&section=header)
+![footer](https://capsule-render.vercel.app/api?type=shark&color=wave&height=100&section=footer)
 
 
 ### HELLO MY NICNAME IS MOMO 👋
