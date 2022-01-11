@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=C8F5AF&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=soft&color=C8F5AF&height=50&section=header)
 
 
 ### HELLO MY NICNAME IS MOMO 👋
@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin281129&count_private=true&show_icons=true&theme=material-palenight)
 
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=C8F5AF&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=C8F5AF&height=50&section=footer)
