@@ -2,7 +2,7 @@
 
 
 ### HELLO MY NICNAME IS MOMO 👋
-I'm a junior🌱 Front-End developer.<br />
+I'm a junior developer.  I Love it 🌱 잔디 키우기 🌱<br />
 After learning machine learning, I realized the importance of web development and am studying the web.🤔<br />
 Finally, my goal is to become a ✨full stack✨ developer.<br />
 
